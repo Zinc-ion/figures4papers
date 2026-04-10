@@ -113,3 +113,11 @@ finalize_figure(fig, "output/heatmap", formats=["png", "pdf"], dpi=300)
 ---
 
 For more patterns (ultra-wide layout, categorical bars, print-safe colors), see [common-patterns.md](common-patterns.md). For design rationale, see [design-theory.md](design-theory.md).
+
+## Related files
+
+- [SKILL.md](../SKILL.md) — When to load this skill
+- [api.md](api.md) — API this tutorial assumes
+- [demos.md](demos.md) — Production scripts in figures4papers
+- [common-patterns.md](common-patterns.md) — Layout and print-safe details
+- [design-theory.md](design-theory.md) — Why the style choices exist

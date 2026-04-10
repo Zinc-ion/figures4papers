@@ -126,3 +126,11 @@ To match the repository's visual identity for new figures:
 3. Choose colors from the blue-green-red-neutral family above; avoid unrelated palettes.
 4. Finalize with `tight_layout(pad=2)` and export at `dpi=300` (or `600` for dense bar panels).
 5. Use hatch/edge encodings for print-safe category separation when bars overlap in hue.
+
+## Related files
+
+- [SKILL.md](../SKILL.md) — When to load this skill
+- [api.md](api.md) — Formal `PALETTE` and function contracts
+- [demos.md](demos.md) — Repository scripts this theory summarizes
+- [common-patterns.md](common-patterns.md) — Operational patterns from the theory
+- [tutorials.md](tutorials.md) — Hands-on flows grounded in this theory

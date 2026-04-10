@@ -19,3 +19,11 @@ Each folder contains Python scripts and (in `figures/`) outputs that follow the 
 | **figure_Cflows** | [figures4papers/figure_Cflows](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_Cflows) | Comparison, ablation, trajectory plots |
 
 For full scripts, outputs, and data, clone or browse the repo. The figure_* folders are the canonical implementations of this skill's style.
+
+## Related files
+
+- [SKILL.md](../SKILL.md) — When to load this skill
+- [api.md](api.md) — Constants, helpers, validation
+- [common-patterns.md](common-patterns.md) — Layout and legend patterns
+- [design-theory.md](design-theory.md) — Style theory and reproduction rules
+- [tutorials.md](tutorials.md) — Step-by-step figure builds

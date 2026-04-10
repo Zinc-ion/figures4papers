@@ -6,10 +6,10 @@ These patterns are used across the repository for consistent, publication-ready 
 
 ## Ultra-wide aspect for multi-metric panels
 
-For 3–4 metrics or many categories in a single row, use a wide canvas so bars/labels don't crowd vertically.
+For 3-4 metrics or many categories in a single row, use a wide canvas so bars/labels don't crowd vertically.
 
 - **Example:** `figsize=(45, 12)` or `(28, 6)`.
-- **Rule:** Width often 3–4× height for comparison bars.
+- **Rule:** Width often 3-4× height for comparison bars.
 - **Why:** Lets the reader scan left-to-right without squinting; keeps y-axis and legend readable.
 
 ---
@@ -40,7 +40,7 @@ When the x-axis is "method" or "condition" and the legend already identifies the
 Tighten y-limits to the relevant range so differences are visible instead of squashed.
 
 - **Idea:** Use something like `data.min() - margin` to `data.max() + margin` (e.g. margin = small fraction of range or one std).
-- **Avoid:** Fixed 0–100 when all values are in 85–95; use e.g. 80–100 instead.
+- **Avoid:** Fixed 0-100 when all values are in 85-95; use e.g. 80-100 instead.
 
 ---
 
@@ -48,7 +48,7 @@ Tighten y-limits to the relevant range so differences are visible instead of squ
 
 Bars that differ only by fill can blur in grayscale. Use edges and optional hatching.
 
-- **Edges:** `edgecolor='black'`, `linewidth=1.5`–`3` for clear separation.
+- **Edges:** `edgecolor='black'`, `linewidth=1.5`-`3` for clear separation.
 - **Hatch:** Same color with different hatch (e.g. `'/'`, `'\\'`, `'.'`) for ablation or subgroups so they remain distinct in print.
 
 ---
@@ -64,3 +64,11 @@ Stick to the skill palette so "proposed vs baseline" is consistent across figure
 - **Highlight:** Single callout only.
 
 See [design-theory.md](design-theory.md) for the full palette and [api.md](api.md) for `PALETTE` and `DEFAULT_COLORS`.
+
+## Related files
+
+- [SKILL.md](../SKILL.md) — When to load this skill
+- [api.md](api.md) — `PALETTE`, helpers, validation
+- [demos.md](demos.md) — Real scripts mirroring these patterns
+- [design-theory.md](design-theory.md) — Visual and color theory
+- [tutorials.md](tutorials.md) — Walkthroughs that apply these patterns

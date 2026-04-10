@@ -40,7 +40,7 @@ class FigureStyle:
     font_family: tuple[str, ...] = ("DejaVu Sans", "Helvetica", "Arial", "sans-serif")
 ```
 
-- **font_size:** Base font size (use 24 for large bar panels, 15–16 for compact plots).
+- **font_size:** Base font size (use 24 for large bar panels, 15-16 for compact plots).
 - **axes_linewidth:** Spine width (3 for big bars, 2 for compact).
 - **use_tex:** Set `True` only when LaTeX is installed and math labels are required.
 - **font_family:** Fallback list for sans-serif fonts.
@@ -136,3 +136,11 @@ make_sphere_illustration(ax, light_dir=(-0.55, 0.65, 0.55), resolution=280)
 - `finalize_figure`: supported formats are pdf, svg, eps, png, jpg, jpeg, tif, tiff.
 
 See [design-theory.md](design-theory.md) for visual and export conventions.
+
+## Related files
+
+- [SKILL.md](../SKILL.md) — When to load this skill
+- [demos.md](demos.md) — Canonical `figure_*` repo links
+- [common-patterns.md](common-patterns.md) — Layout, legend panel, print-safe encoding
+- [design-theory.md](design-theory.md) — Rationale and rcParams-style presets
+- [tutorials.md](tutorials.md) — End-to-end examples using this API
