@@ -1,15 +1,18 @@
 ---
 name: scientific-figure-making
 description: >-
-  Load when the user is finalizing or creating matplotlib figures for academic
-  publication—bars, trends, scatter, heatmaps, or multi-panel layouts—and needs
-  this repository’s house style, print/vector export, or parity with figures4papers
-  demos. Skip for interactive dashboards or web viz (Plotly, Altair, Bokeh),
-  exploratory-only plots not headed to publication, dominant 3D or geographic
-  mapping, or Illustrator/Figma-first infographic workflows.
+  Covers publication-ready matplotlib figures for academic papers, slides, and
+  reports—bars, trends, scatter, heatmaps, and multi-panel layouts—with this
+  repository’s house style, print/vector export conventions, and parity with
+  figures4papers demos. Use when the user is finalizing or creating such figures
+  in matplotlib. Do not use for interactive dashboards or web viz (Plotly, Altair,
+  Bokeh), exploratory-only plots without a publication target, dominant 3D or
+  geographic mapping, or Illustrator/Figma-first infographic workflows.
 ---
 
 # Scientific figure making
+
+Open files under `references/` only when the active task requires that content; do not preload or read every reference by default.
 
 ## When to load this skill
 
