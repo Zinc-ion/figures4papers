@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # Figures for Papers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chen-blue)](https://www.linkedin.com/in/chenliu1996/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Chen.svg?style=social)](https://x.com/ChenLiu_1996)
@@ -18,6 +18,9 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 
 ### Bar plots for composition breakdown
 <img src="figure_brainteaser/figures/brute_force.png" width="800">
+
+### Radar plots
+<img src="figure_VIGIL/figures/comparison_radar.png" width="800">
 
 ### Trend plots
 <img src="figure_ophthal_review/figures/trend_by_month.png" width="800">
