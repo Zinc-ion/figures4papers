@@ -21,18 +21,25 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 
 <div align="center">
 
-<table border="0" cellspacing="12" cellpadding="0" style="border: none; border-collapse: collapse;">
-<tr>
-<td align="left" valign="top" style="border: none;">
+<table align="left" border="0" cellpadding="0" cellspacing="0" frame="void" rules="none" hspace="12">
+<tbody><tr>
+<td align="left" valign="top">
 <h3 align="left">Radar plots</h3>
 <img src="figure_VIGIL/figures/comparison_radar.png" width="400">
 </td>
-<td align="left" valign="top" style="border: none;">
-<h3 align="left">Line plots</h3>
-<img src="figure_VIGIL/figures/comparison_posttraining.png" width="400">
-</td>
-</tr>
+</tr></tbody>
 </table>
+
+<table align="left" border="0" cellpadding="0" cellspacing="0" frame="void" rules="none" hspace="12">
+<tbody><tr>
+<td align="left" valign="top">
+<h3 align="left">Line plots</h3>
+<img src="figure_VIGIL/figures/comparison_posttraining.png" width="300">
+</td>
+</tr></tbody>
+</table>
+
+<br clear="all">
 
 </div>
 
