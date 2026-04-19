@@ -20,7 +20,7 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 <img src="figure_brainteaser/figures/brute_force.png" width="800">
 
 ### Radar plots
-<img src="figure_VIGIL/figures/comparison_radar.png" width="800">
+<img src="figure_VIGIL/figures/comparison_radar.png" width="600">
 
 ### Trend plots
 <img src="figure_ophthal_review/figures/trend_by_month.png" width="800">
