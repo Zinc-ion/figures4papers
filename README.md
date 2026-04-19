@@ -25,7 +25,7 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 
 <p align="left">
 <img align="left" src="figure_VIGIL/figures/comparison_radar.png" width="400" hspace="6" alt="Radar comparison">
-<img align="left" src="figure_VIGIL/figures/comparison_posttraining.png" width="300" hspace="6" alt="Post-training comparison">
+<img align="left" src="figure_VIGIL/figures/comparison_posttraining.png" width="400" hspace="6" alt="Post-training comparison">
 <br clear="all">
 </p>
 
