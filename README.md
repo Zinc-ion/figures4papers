@@ -138,14 +138,18 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 <details>
 <summary>Dispersion</summary>
 
+[![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=pd6A7jB5D6)
+[![ICML 2026](https://img.shields.io/badge/ICML_2026-purple)](https://openreview.net/pdf?id=pd6A7jB5D6)
 [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2602.00217)
+[![GitHub Stars](https://img.shields.io/github/stars/ChenLiu-1996/LM-Dispersion.svg?style=social\&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
 ```bibtex
-@article{liu2026dispersion,
-  title={Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models},
+@inproceedings{liu2026dispersion,
+  title={Dispersion loss counteracts embedding condensation and improves generalization in small language models},
   author={Liu, Chen and Sun, Xingzhi and Xiao, Xi and Van Tassel, Alexandre and Xu, Ke and Reimann, Kristof and Liao, Danqi and Gerstein, Mark and Wang, Tianyang and Wang, Xiao and others},
-  journal={arXiv preprint arXiv:2602.00217},
-  year={2026}
+  booktitle={International conference on machine learning},
+  year={2026},
+  organization={PMLR}
 }
 ```
 
