@@ -16,6 +16,10 @@ This is a centralized repository of my own **Python scripts for high-quality fig
 These figures appear in top venues including but not limited to *Nature Machine Intelligence*, *ICML*, and *NeurIPS*.
 
 <br>
+
+**Tiny request for readers:** Please star this GitHub repository too ([https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion)). Thank you!
+
+<br>
 <br>
 
 ### Bar plots for quantitative comparison
