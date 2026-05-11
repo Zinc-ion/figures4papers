@@ -17,7 +17,7 @@ These figures appear in top venues including but not limited to *Nature Machine 
 
 <br>
 
-**Tiny request for readers:** Please star this GitHub repository too ([https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion)). Thank you!
+**[Tiny request]** Please star this GitHub repository too: [https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion). Thank you!
 
 <br>
 <br>
